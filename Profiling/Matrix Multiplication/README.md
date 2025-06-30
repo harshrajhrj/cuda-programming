@@ -1,3 +1,4 @@
+```
 Generating '/tmp/nsys-report-14a9.qdstrm'
 [1/8] [========================100%] report2.nsys-rep
 [2/8] [========================100%] report2.sqlite
@@ -74,3 +75,4 @@ SKIPPED: /kaggle/working/report2.sqlite does not contain CUDA kernel data.
 Generated:
     /kaggle/working/report2.nsys-rep
     /kaggle/working/report2.sqlite
+```
