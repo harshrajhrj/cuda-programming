@@ -2,7 +2,7 @@ Series of command to run
 ---
 
 Compile
-```!nvcc -o cublasMatMul cublasMatMul.cu -lcublas```
+```!nvcc -o cublasMatMul cublasMatMul.cu -lcublas```<br>
 Run
 ```!./cublasMatMul```
 ```
