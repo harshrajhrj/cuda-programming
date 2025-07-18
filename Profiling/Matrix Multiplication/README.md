@@ -169,7 +169,7 @@ Generated:
     /kaggle/working/report4.sqlite
 ```
 ---
-Tiled Matrix Multiplication
+[Tiled Matrix Multiplication](https://penny-xu.github.io/blog/tiled-matrix-multiplication)
 ```bash
 !nvcc -o tiled_matmul tiled_matmul.cu -lnvToolsExt
 !nsys profile --stats=true ./tiled_matmul
